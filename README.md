@@ -1,5 +1,7 @@
 # go-ocr
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/tiagomelo/go-ocr.svg)](https://pkg.go.dev/github.com/tiagomelo/go-ocr)
+
 ![logo](doc/go-ocr.png)
 
 A tiny [OCR](https://en.wikipedia.org/wiki/Optical_character_recognition) utility for Go, offering the ability of extracting text from an image.
